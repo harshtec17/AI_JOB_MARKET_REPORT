@@ -30,8 +30,6 @@ Built visual reports with bar charts, line graphs, slicers, and cards.
 
 Pages include job role trends, salary vs experience, company insights, and time analysis.
 
-
-
 # ✅ Findings
 # Sheet 1 – Job Titles, Locations, Companies, Industries
 1 Machine Learning Engineers get paid the most among AI roles.
